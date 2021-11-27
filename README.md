@@ -1,2 +1,3 @@
 # auto-tests
+Test
 exercise
